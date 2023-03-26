@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Laucherooo&theme=dark)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Laucherooo) --!>
+
+![](https://komarev.com/ghpvc/?username=Laucherooo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laucherooo&layout=compact&theme=nightowl)](https://github.com/Laucherooo/github-readme-stats)
